@@ -1,0 +1,101 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    background-color: #ff00001a;
+    color: #2c00001c;
+    padding: 10px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 10;
+    padding: 10;
+}
+
+nav li {
+    display: inline;
+    margin-right: 10px;
+}
+
+.welcome-container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+
+.flavor-container {
+    text-align: left;
+    margin-top: 50px;
+    background-color: #c01a1ac8;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(175, 6, 6, 0.55);
+}
+
+.Chevrolet Corvette {
+    width: 500px;
+    height: 300px;
+    justify-self: flex-start;
+}
+
+.Toyota GR86 {
+    width: 400px;
+    height: 300px;
+    justify-self: flex-start;
+}
+
+
+.flavor-container {
+    text-align: left;
+    margin-top: 50px;
+    background-color: #a01616b9;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(173, 60, 60, 0.53);
+    color: #700f0ab3;
+    size: 50vh;
+}
+
+.Porsche911 {
+    width: 350px;
+    height: 300px;
+    justify-content: flex-start;
+}
+
+
+.flavor-container {
+    text-align: leftt;
+    margin-top: 50px;
+    background-color: #f300006f;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(253, 0, 0, 0.671);
+    color: #ea03039d;
+}
+
+.Toyota Supra {
+width: 500px;
+height: 300px;
+justify-content: flex-start;
+}
+
+
+.flavor-container {
+    text-align: left;
+    margin-top: 50px;
+    background-color: #b90c0c9f;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgb(252, 0, 0);
+    color: #cb0b0bbe;
+}
+
+.Jaguar F-Type {
+width: 400px;
+height: 300px;
+justify-content: flex-start;
+}
